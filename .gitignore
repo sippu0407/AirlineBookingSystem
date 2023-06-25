@@ -1,0 +1,15 @@
+/Airline-Noti-Service/node_modules/
+/Api_Gateway_Flights/node_modules/
+/Flight-Booking-Service/node_modules/
+/ReminderService/node_modules/
+
+
+/Airline-Noti-Service/.env
+/Api_Gateway_Flights/.env
+/Flight-Booking-Service/.env
+/ReminderService/.env
+
+/Airline-Noti-Service/src/config/config.json
+/Api_Gateway_Flights/src/config/config.json
+/Flight-Booking-Service/src/config/config.json
+/ReminderService/src/config/config.json
